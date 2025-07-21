@@ -1,5 +1,7 @@
 /* ✅ Tailwind core import */
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* 🌈 Custom theme variables */
 @layer base {
